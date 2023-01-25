@@ -132,7 +132,6 @@ body.menu-toggled > .meta-link > span {
   text-decoration: none;
   transition: background-color var(--tt), border-color var(--tt);
   z-index: 10000;
-  /*No i dont know whether this is all necessary but i am not going to risk touching it*/
   transition: color var(--tt);
   transition: invert var(--tt);
   -webkit-transition: -webkit-filter var(--tt);
